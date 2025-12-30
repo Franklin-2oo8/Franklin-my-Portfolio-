@@ -15,6 +15,14 @@ a{
 }
 #div{
   text-align: center;
+  border: 3px solid #68656563;
+  border-radius: 20%;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: #68656563; ;
 }
 samp{
   top: 0px;
@@ -38,6 +46,8 @@ samp{
   button{
     color: white;
     background-color: transparent;
+    border-radius: 30%;
+    padding: 1%;
   }
   .project{
     width: 140px;
