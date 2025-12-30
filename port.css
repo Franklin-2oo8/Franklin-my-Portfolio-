@@ -22,8 +22,8 @@ samp{
 }
 #fr{
   border-radius: 50%;
-  width: 70px;
-  height: 70px;
+  width: 130px;
+  height: 130px;
   margin: 2%;}
   #img {
     text-align: center;
@@ -50,7 +50,7 @@ samp{
   }
   .divp{
     background-color: grey;
-    height: 355px;
+    height: 365px;
     width: 140px;
     border-radius: 15%;
     text-align: center;
