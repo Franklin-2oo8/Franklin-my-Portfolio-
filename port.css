@@ -1,6 +1,7 @@
 body{
   background-color: black;
   color:white;
+  font-size: 24px;
 }
 a{
   color:white;
@@ -39,8 +40,8 @@ samp{
     background-color: transparent;
   }
   .project{
-    width: 100px;
-    height: 70px;
+    width: 140px;
+    height: 170px;
     border-radius: 10%;
   }
   #section{
@@ -49,8 +50,8 @@ samp{
   }
   .divp{
     background-color: grey;
-    height: 210px;
-    width: 100px;
+    height: 330px;
+    width: 140px;
     border-radius: 15%;
     text-align: center;
     display:inline-block;
